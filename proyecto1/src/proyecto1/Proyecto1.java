@@ -21,7 +21,7 @@ public class Proyecto1 {
         System.out.println(p1);
         
         System.out.println("Modificado desde NetBeans");
-        System.out.println("Modificado desde GitHub");
+        System.out.println("Modificado desde GitHu");
     }
     
 }
