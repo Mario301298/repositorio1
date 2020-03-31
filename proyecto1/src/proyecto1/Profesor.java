@@ -31,6 +31,6 @@ public class Profesor {
         return "Profesor{" + "nombre=" + nombre + '}';
     }
     
-    //hola
+    //hola como estas
     
 }
